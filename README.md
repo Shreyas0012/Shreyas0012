@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 About Me:
-Hiii there !! 👋 I'm **Shreyas** <br>
+# Hiii there !! 👋 I'm **Shreyas** 
+<br>
 🎓 Pursuing **Computer Science Engineering** specializing in **Edge Computing** at **MIT ADT University**.<br>
 💻 I'm also a **MERN Stack Developer**.<br>
 This is my GitHub profile showcasing my tech stack and project work 🚀
