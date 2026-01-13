@@ -2,7 +2,8 @@
 
 # Hiii there !! 👋 I'm **Shreyas** <br>
 
-🎓 Pursuing **Computer Science Engineering** specializing in **Edge Computing** at **MIT ADT University**.<br>
+🎓 Pursuing **Computer Science Engineering** at **MIT ADT University**.<br>
+A passionate Python developer and Java developer
 💻 I'm also a **MERN Stack Developer**.<br>
 This is my GitHub profile showcasing my tech stack and project work 🚀
 
