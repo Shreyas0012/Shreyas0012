@@ -67,7 +67,7 @@
 ## 🐍 Contribution Snake (Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyas0012/Shreyas0012/output/snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas0012&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
