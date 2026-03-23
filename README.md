@@ -72,9 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shreyas0012&icon=5&color=0"/>
-</p>
 
 <p align="center">
   ✨ Code • Build • Innovate • Repeat ✨
