@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,40:1c2b3a,70:203a43,100:2c5364&height=140&section=header"/>
-</p>
-
-<p align="center">
   <b>Full Stack Developer (MERN) · Python · Java</b>
 </p>
 
