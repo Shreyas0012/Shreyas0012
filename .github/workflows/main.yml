@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -22,3 +25,4 @@ jobs:
         with:
           branch: output
           folder: dist
+          clean: true
