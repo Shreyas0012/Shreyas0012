@@ -1,78 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shreyas%20Upadhye&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h1 align="center">👋 Hey, I'm Shreyas</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+%7C+Java+Developer;Building+Real-World+Projects" />
-</p>
-
-<h3 align="center">
-💻 MERN Stack Developer | Python & Java Developer <br>
-🎓 Computer Science Engineering @ MIT ADT University <br>
-🚀 Passionate about building impactful tech solutions
-</h3>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas0012&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas0012&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,40:1c2b3a,70:203a43,100:2c5364&height=140&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas0012&layout=compact&theme=tokyonight&hide_border=true"/>
+  <b>Full Stack Developer (MERN) · Python · Java</b>
+</p>
+
+<p align="center">
+  MIT ADT University · Computer Science Engineering
 </p>
 
 ---
 
-## 💻 Tech Stack
+## About
+
+I build scalable web applications and explore systems at the intersection of software, AI, and real-world problem solving.  
+Focused on clean code, efficient system design, and continuous learning.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,mongodb,mysql,firebase,aws,figma,blender,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,aws,firebase,git&perline=9" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-- 🔗 **MediChain** – Blockchain-based healthcare system  
-- 🔗 **AI Intrusion Detection System**  
-- 🔗 **IoT Balloon Thrower**  
-
----
-
-## 🌐 Connect with Me
+<p align="center"><b>Selected Work</b></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shreyasupadhye">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/shreys_upadhye07">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:shreyasupadhye494949@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.reddit.com/u/NOVICHOKO">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
+  <a href="https://github.com/Shreyas0012/MediChain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=Blockchain_Healthcare&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shreyas0012/AI-Intrusion-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=Intrusion_Detection&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shreyas0012/IoT-Balloon-Thrower">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=ARTORA&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas0012&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas0012&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Shreyas0012&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas0012&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
+## Contact
 
 <p align="center">
-  ✨ Code • Build • Innovate • Repeat ✨
+<a href="https://www.linkedin.com/in/shreyasupadhye">LinkedIn</a> · 
+<a href="mailto:shreyasupadhye494949@gmail.com">Email</a> · 
+<a href="https://www.instagram.com/shreys_upadhye07">Instagram</a>
 </p>
