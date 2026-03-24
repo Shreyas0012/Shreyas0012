@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Full Stack Developer (MERN) · Python · Java</b>
+  <b> Python · Java</b>
 </p>
 
 <p align="center">
