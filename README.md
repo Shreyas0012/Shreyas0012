@@ -1,5 +1,5 @@
 <p align="center">
-  <b> Python · Java</b>
+  <b> Python & Java Developer</b>
 </p>
 
 <p align="center">
