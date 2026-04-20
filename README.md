@@ -1,7 +1,6 @@
 <h2 align="center"> Hiii 👋🏻 I'm Shreyas Upadhye</h2>
 
 <p align="center">
-  <b>Python & Java Developer</b><br>
   Computer Science Engineering · MIT ADT University
 </p>
 
@@ -11,7 +10,7 @@
 
 ---
 
-## About
+## About Me  <h4> <b>Python & Java Developer</b></h4>
 
 I build scalable web applications and develop systems that address real-world challenges while maintaining performance and reliability.  
 My work focuses on backend development, writing clean and maintainable code, and designing efficient system architectures.  
