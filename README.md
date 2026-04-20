@@ -66,6 +66,3 @@ I am particularly interested in Blockchain and Edge Computing for creating secur
 
 ---
 
-<p align="center">
-  <i>Code. Build. Scale.</i>
-</p>
