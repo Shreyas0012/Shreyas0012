@@ -18,7 +18,7 @@ Focused on clean code, efficient system design, and continuous learning.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,aws,firebase,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,aws,firebase,git" />
 </p>
 
 ---
