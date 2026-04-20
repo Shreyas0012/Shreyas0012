@@ -9,12 +9,12 @@
 ---
 
 ### About Me 🧑🏻‍💻
-
+<h3 align="center">
 I build scalable web applications and work on systems that solve real-world problems.  
 Focused on clean code, backend development, and efficient system design.  
 Experienced with modern web technologies and cloud-based solutions.  
 Interested in Blockchain and Edge Computing for building distributed systems.  
-
+</h3>
 ---
 
 ### ⚙️ Techstack  
