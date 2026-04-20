@@ -15,8 +15,8 @@ Focused on clean code, backend development, and efficient system design.
 Experienced with modern web technologies and cloud-based solutions.  
 Interested in Blockchain and Edge Computing for building distributed systems.  
 </h3>
----
 
+---
 ### ⚙️ Techstack  
 
 <p align="center">
@@ -33,29 +33,6 @@ Interested in Blockchain and Edge Computing for building distributed systems.
 </p>
 
 ---
-
-### 📌 Projects  
-
-<p align="center"><b>Selected Work</b></p>
-
-<p align="center">
-  <a href="https://github.com/Shreyas0012/MediChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=Blockchain_Healthcare&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Shreyas0012/AI-Intrusion-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=Intrusion_Detection&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shreyas0012/IoT-Balloon-Thrower">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas0012&repo=ARTORA&theme=github_dark&hide_border=true" />
-  </a>
-  <!-- Add more projects like this -->
-</p>
-
----
-
 ### 📊 GitHub Activity  
 
 <p align="center">
@@ -87,4 +64,4 @@ Interested in Blockchain and Edge Computing for building distributed systems.
 
 ---
 
-<h3 align="center">✨ “Code. Build. Scale.” ✨</h3>
+
