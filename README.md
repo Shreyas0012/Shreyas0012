@@ -38,12 +38,13 @@ I am particularly interested in Blockchain and Edge Computing for creating secur
 
 ## GitHub Activity
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shreyas0012&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Shreyas0012&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas0012&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas0012&theme=github-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
